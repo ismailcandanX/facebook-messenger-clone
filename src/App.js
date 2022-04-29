@@ -46,7 +46,7 @@ function App() {
         style={{ height: '6.5rem' }}
         alt="logo"
       />
-      <h1>Hello World!</h1>
+      <h1>Messenger</h1>
       <h2>Welcome {userName}</h2>
 
       <form className="app__form">
